@@ -25,4 +25,7 @@ Certain sections of the conky configurations files I uploaded to the repository 
 
 The theme comes in versions dark and light:
 
+![Alt text](/samples/jotack_dark.png?raw=true "Dark Jotack theme")
+![Alt text](/samples/jotack_light.png?raw=true "Light Jotack theme")
+
 Enjoy! :smiley:
